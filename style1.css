@@ -1,0 +1,68 @@
+fieldset {
+  width : 400px;
+  border: #41719c 1px solid;
+}
+
+
+table {
+  border-collapse: separate;
+  border-spacing : 15px 15px;
+}
+
+button {
+  background-color: #70ad47;
+  color           : #f0f0f0;
+  border          : #41719c solid;
+  border-radius   : 10px;
+  /* font-weight  : bold; */
+  width           : 30%;
+  height          : 43px;
+  margin-left     : 140px;
+  text-align      : center;
+  /* font-family  : Arial, Helvetica, sans-serif; */
+}
+
+span {
+  color: red;
+}
+
+label {
+  /* font-family: Arial, Helvetica, sans-serif; */
+  display  : inline-flex;
+  font-size: 14px;
+}
+
+#input {
+  width: 220px;
+}
+
+.blue-box {
+  border     : #41719c 1px solid;
+  line-height: 20px;
+  padding    : 3px 0px 5px 0px;
+}
+
+.td {
+  background-color: #70ad47;
+  color           : #f0f0f0;
+  vertical-align  : bottom;
+  text-align      : center;
+  padding         : 3px 15px 5px 15px;
+  line-height     : 20px;
+  border          : #41719c 1px solid;
+  border-width    : 1.9px;
+}
+
+.gender {
+  margin-left : 15px;
+  margin-right: 10px;
+}
+
+.error {
+  padding-left: 20px;
+  color       : red;
+}
+
+.empty {
+  padding-left: 1px;
+}
