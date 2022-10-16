@@ -37,7 +37,7 @@ echo
                 <tr>
                     <td class='td'><label>Hình ảnh</label></td>
                     <td>
-                    <img src='./upload/ddc3afe873e140699868ecef9419caa3.png'></td>
+                    <img src='./upload/anh1_20221011122200.png'></td>
                 </tr>
             </table>
         </form>
